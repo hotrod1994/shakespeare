@@ -1,14 +1,20 @@
-Roderigo: That Othello will do well if he can pull this off
+Roderigo
+>That Othello will do well if he can pull this off
 
-Iago: Wake up Brabantio, chase him down, antagonize him, make him angry at Othello.
+Iago
+>Wake up Brabantio, chase him down, antagonize him, make him angry at Othello.
 
-Roderigo: Here's his house, I'll shout at him
+Roderigo
+>Here's his house, I'll shout at him
 
-Iago: Yes! Scream at him! Of fires across the city.
+Iago
+>Yes! Scream at him! Of fires across the city.
 
-Roderigo: Brabantio! Brabantio! Wake up, Brabantio!
+Roderigo
+>Brabantio! Brabantio! Wake up, Brabantio!
 
-Iago: Brabantio! You've got burglars in your house! Your daughters been stolen, as have your bags!
+Iago
+>Brabantio! You've got burglars in your house! Your daughters been stolen, as have your bags!
 
 Brabantio: What the hell are you talking about? I'm trying to sleep. Leave me alone!
 
