@@ -1,4 +1,4 @@
-Othello Performance
+CHARACTERS
 
 Othello: Pimp
 
@@ -6,10 +6,55 @@ Iago: Bar owner
 
 Cassio: Other Bar owner
 
-Brabantio: Dad to one of Othello’s prostitutes
+Brabantio: The Drug Lord
+
+Desdemona: Othello's side bitch and Brabantio's daughter
+
+Roderigo: Iago's friend who likes Desdemona
+
+
+SUMMARY
 
 Iago wants his bar to be more popular by getting strippers from Othello. Othello chooses to give 
 
 strippers to Cassio’s competing bar across the street. Desdemona, Brabantio’s daughter is Othello side 
 
-bitch. Iago tells Rodrigo to tell Brabantio about Desdemona
+bitch. Iago tells Rodrigo to tell Brabantio about what Desdemona is doing.
+
+
+
+SCENE DESCRIPTION
+
+*Brabantio is passed out at a table, surrounded by thugs. Iago and Roderigo sit at the bar, cleaning and drinking*
+
+Iago and Roderigo talk about: Othello giving Cassio's bar strippers and Iago's plans on getting back Othello by
+exposing his marriage with Desdemona.
+
+(Othello is currently at Cassio's bar, setting it up into a stripclub)
+
+Iago then urges Roderigo to awake Brabantio.
+
+Roderigo brings a drink to the Drug Lord's table, waking him up.
+
+He then asks him after his daughter, turning the conversation to a rumour he has heard about her actions,
+intentionally directing suspicion towards Othello
+
+Brabantio becomes offended, but then calls one of his thugs guarding his mansion to confirm this.
+
+After finding out the truth, he rushes out with his thugs (with a lot of guns), following Roderigo, determined to 
+kill (?) Othello
+
+
+PROPS
+
+Wine/Beer bottles
+2 or more beer mugs
+a cloth (for Iago to clean mug with)
+phone playing bar music in the background (speaker?)
+some paper thugs mounted on a stick covered in cocaine
+gold phone (fake) for Brabantio to call thug with
+
+COSTUMES
+no idea...
+
+
